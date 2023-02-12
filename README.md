@@ -34,7 +34,7 @@ Berikut flowchart sederhana program yang dibuat
 <h2>SNIPPED CODE</h2>
 
 
-<h3>INISISASI CLASS</h3>
+<h3>INISIASI CLASS</h3>
 Method dan atribut pada program cashier ini disimpan pada sebuah class bernama Transaction.
 
 berikut ini tampilan saat inisiasi kelas
