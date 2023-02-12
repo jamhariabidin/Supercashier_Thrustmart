@@ -5,6 +5,8 @@
 Super Cashier Project merupakan sistem kasir sederhana menggunakan bahasa pemrograman python untuk memudahkan pembeli melakukan transaksi di sebuah toko.
 
 <h2>REQUIREMENT/ OBJECTIVES</h2>
+
+
 1. Menginput iitem yang ingin dibeli
 2. Menampilkan keranjang berisi barang yang akan dibeli
 3. Edit barang yang akan dibeli pada   keranjang
@@ -135,7 +137,7 @@ output ketika selesai **reset seluruh barang di keranjang**
 <h3>FITUR CEKOUT BARANG DI KERANJANG</h3>
 
 code untuk melakukan pengecekan barang di keranjang
-![Gambar cekout Barang di Keranjang](./img/cekout_a.jpg "Code cekout Barang di Keranjang")
+![Gambar cekout Barang di Keranjang](./img/cekout_a.JPG "Code cekout Barang di Keranjang")
 
 code untuk melakukan pengecekan check order/ checkout di keranjang
 ![Gambar cekout Barang di Keranjang](./img/cekout.JPG "Code cekout Barang di Keranjang")
@@ -151,7 +153,7 @@ code method untuk melakukan perhitungan total belanja dan final price.
 
 jika mencapai total belanja mencapai suatu nilai, akan mendapatkan diskon sehingga final price = total belanja * (1-discount)
 
-![Gambar Total belanja](./img/total.jpg "Code Total belanja")
+![Gambar Total belanja](./img/total.JPG "Code Total belanja")
 
 code method untuk melakukan pengecekan besaran diskon yang didapatkan oleh pelanggan
 ![Gambar Diskon belanja](./img/total_a.JPG "Code Diskon belanja")
